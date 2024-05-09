@@ -2,7 +2,7 @@ let btnBack = document.querySelector(".back");
 let btnNext = document.querySelector(".next");
 
 let list = document.querySelector(".container .list");
-let thumb = document.querySelector("container .thumb");
+let thumb = document.querySelector(".container .thumb");
 
 btnNext.onclick = () => moneItemOnClick("next");
 btnBack.onclick = () => moneItemOnClick("back");
