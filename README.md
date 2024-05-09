@@ -31,7 +31,7 @@ Criei uma página minimalista inspirada no icônico RPG, utilizando HTML, CSS e 
 
 > Portfólio: https://daliosy.github.io/PORTFOLIO
 
-> Repoditório: https://github.com/DalioSY/codeffvii
+> Deploy: https://daliosy.github.io/codeffvii
 
 > Linkedin: https://www.linkedin.com/in/dalio-s-yamada/
 
